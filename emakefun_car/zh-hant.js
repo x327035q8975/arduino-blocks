@@ -1,0 +1,1 @@
+Blockly.Msg["CATEMAKEFUNCAR"] = "emakefun遙控車";

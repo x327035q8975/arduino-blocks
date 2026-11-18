@@ -1,0 +1,17 @@
+<xml id="toolbox" style="display: none">
+  <category id="catEmakefunCar" name="emakefun遙控車" colour="210">
+    <block type="emakefun_motor_init"></block>
+    <block type="emakefun_dc_motor">
+      <value name="SPEED">
+        <block type="math_number">
+          <field name="NUM">200</field>
+        </block>
+      </value>
+    </block>
+    <block type="emakefun_dc_motor_stop_all"></block>
+    <block type="emakefun_ps2_init"></block>
+    <block type="emakefun_ps2_read"></block>
+    <block type="emakefun_ps2_button"></block>
+    <block type="emakefun_ps2_analog"></block>
+  </category>
+</xml>

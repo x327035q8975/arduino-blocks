@@ -1,0 +1,21 @@
+{
+  "types": [
+    "emakefun_motor_init",
+    "emakefun_dc_motor",
+    "emakefun_dc_motor_stop_all",
+    "emakefun_ps2_init",
+    "emakefun_ps2_read",
+    "emakefun_ps2_button",
+    "emakefun_ps2_analog"
+  ],
+  "category": "catPlus",
+  "includes": [
+    "blocks.js",
+    "javascript.js"
+  ],
+  "dependencies": [],
+  "lang": {
+    "zh-hant": "zh-hant.js"
+  },
+  "toolbox": "toolbox.xml"
+}
